@@ -1,2 +1,2 @@
 # personal-cv
-Created with CodeSandbox
+this is me :)
