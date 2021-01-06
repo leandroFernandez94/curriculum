@@ -122,7 +122,7 @@ export default function App() {
         <h3 className="section-title">Key technologies I have worked with</h3>
         <ul>
           <li>
-            <b>OS and tools:</b> GIT, Linux, MacOS, Docker, npm,{" "}
+            <b>OS:</b> Linux, MacOS
           </li>
           <li>
             <b>Frontend stack: </b>React, Vue, Angular, Redux, NextJS,
