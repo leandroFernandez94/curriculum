@@ -1,0 +1,66 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  font-family: inter;
+}
+
+@media (min-width: 1024px) {
+  .App {
+    margin: 0 200px;
+  }
+}
+
+.main-line {
+  width: 100%;
+  color: red;
+}
+
+.personal-data {
+  font-size: 16px;
+}
+
+#header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+}
+
+#header-container li {
+  list-style-type: none;
+}
+
+#main-data {
+  color: black;
+}
+
+p,
+li {
+  line-height: 22px;
+  color: #959595;
+}
+
+li > span {
+  display: inline-block;
+  line-height: 25px;
+}
+
+li > span > img {
+  height: 14px;
+  width: 16px;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: darkred;
+}
+#profile-pic {
+  width: 220px;
+  height: 220px;
+  margin: 10px 10px;
+}
+
+.section-title {
+  color: #e64d57;
+}

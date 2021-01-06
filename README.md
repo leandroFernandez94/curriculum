@@ -1,2 +1,2 @@
-# curriculum
+# personal-cv
 Created with CodeSandbox
